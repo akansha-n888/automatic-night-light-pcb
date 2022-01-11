@@ -4,7 +4,6 @@ Automatic night light PCB implemented in KiCAD
 ## Table of contents
 * [Motivation](#motivation)
 * [Software](#software)
-* [For Next Time](#for-next-time)
 * [Status](#status)
 * [Credits](#credits)
 * [Contact](#contact)
